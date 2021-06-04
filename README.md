@@ -82,6 +82,5 @@ Logical OR (||)	expr1 || expr2	Returns expr1 if it can be converted to true; oth
 
 Logical NOT (!)	!expr	Returns false if its single operand that can be converted to true; otherwise, returns true.
 
-	:smiley:
-  	:smiley:
+	:grinning:
 
