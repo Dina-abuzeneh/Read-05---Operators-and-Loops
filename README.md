@@ -43,8 +43,11 @@ An assignment operator assigns a value to its left operand based on the value of
 
 # Compound assignment operators
 Name	                         Shorthand operator	             Meaning
+
 Assignment	                    x = y	                         x = y
+
 Addition assignment           	x += y	                       x = x + y
+
 Subtraction assignment	x -= y	x = x - y
 Multiplication assignment	x *= y	x = x * y
 Division assignment	x /= y	x = x / y
